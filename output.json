@@ -1,0 +1,25 @@
+{
+    "assignments": [
+        {
+            "drone": "D1",
+            "orders": [
+                "O2",
+                "O3",
+                "O4"
+            ],
+            "total_distance": 50
+        },
+        {
+            "drone": "D2",
+            "orders": [],
+            "total_distance": 0
+        },
+        {
+            "drone": "D3",
+            "orders": [
+                "O1"
+            ],
+            "total_distance": 8
+        }
+    ]
+}
